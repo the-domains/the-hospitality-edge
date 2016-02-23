@@ -1,0 +1,28 @@
+name: The Hospitality Edge
+favicon: null
+layout_spectrum: 0.10930196684785187
+typography_spectrum: 0.2573617030866444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6735715600661933
+  lightness: 0.19307918404228985
+  saturation: 0.14601661451160908
+  rhythmicContrast: 0.11927900183945894
+purpose: []
